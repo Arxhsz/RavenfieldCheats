@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenfieldCheats", "RavenfieldCheats\RavenfieldCheats.csproj", "{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}.Debug|x86.ActiveCfg = Release|x86
+		{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}.Debug|x86.Build.0 = Release|x86
+		{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}.Release|x86.ActiveCfg = Release|x86
+		{96A8CFE7-F4B4-44F9-A5FF-7AC3B36DDBF9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CB1DEC-4F20-48A3-87C9-642C68AB243A}
+	EndGlobalSection
+EndGlobal
