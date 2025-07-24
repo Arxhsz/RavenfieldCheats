@@ -1,7 +1,7 @@
 # 🎮 Ravenfield Cheats Mod
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![Version](https://img.shields.io/badge/version-2.3.3-blue.svg)](https://github.com/Arxchsz/Raven-Cheats/releases)  
+[![Version](https://img.shields.io/badge/version-2.3.3-blue.svg)](https://github.com/Arxchsz/RavenfieldCheats/releases)  
 [![MelonLoader](https://img.shields.io/badge/MelonLoader-0.5.7-blueviolet)](https://github.com/LavaGang/MelonLoader)
 
 A MelonLoader mod for Ravenfield that unlocks infinite ammo, one‑hit kills, god mode, and more quality‑of‑life cheats. Created by **Arxchsz**.
@@ -26,7 +26,6 @@ A MelonLoader mod for Ravenfield that unlocks infinite ammo, one‑hit kills, go
 
 ### 🎨 Visual Effects
 - **Rainbow Overlay** – Add a vibrant, colorful overlay  
-- **Custom Crosshair** – Enhanced targeting crosshair  
 
 ### 🎮 Gameplay Enhancements
 - **Kill All Enemies** – Instantly eliminate all enemy forces  
@@ -43,7 +42,7 @@ A MelonLoader mod for Ravenfield that unlocks infinite ammo, one‑hit kills, go
 - **.NET Framework 3.5** (required to compile from source)
 
 ### Installation Steps
-1. Download the latest ZIP from the [Releases](https://github.com/Arxchsz/Raven-Cheats/releases) page.  
+1. Download the latest ZIP from the [Releases](https://github.com/Arxchsz/RavenfieldCheats/releases) page.  
 2. Extract the ZIP.  
 3. Copy `RavenfieldCheats.dll` into your `Ravenfield/Mods` directory.  
 4. Launch Ravenfield and press **F9** to open the cheat menu.
@@ -83,7 +82,7 @@ The compiled DLL will appear in the bin/Release folder.
 - **Features not working**: Make sure you're using the latest mod build and your game is up to date.
 
 ### Getting Help
-1. Visit the [Issues](https://github.com/Arxchsz/Raven-Cheats/issues) page.
+1. Visit the [Issues](https://github.com/Arxchsz/RavenfieldCheats/issues) page.
 2. Search for existing reports of your issue.
 3. If none exist, open a new issue and include:
    - Ravenfield version
